@@ -1,0 +1,10 @@
+vlc -> ffmpeg -> []
+
+audacious-plugins -> audacious -> []
+                  -> mpg123 -> []
+
+grip -> []
+
+id3lib -> []
+
+lame -> []
